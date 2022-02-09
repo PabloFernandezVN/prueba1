@@ -1,4 +1,9 @@
 
 Hola esto es un fichero que mola mucho
+<<<<<<< Updated upstream
 ¿A que si?
 Modificacion temporal en gitHub
+=======
+¿A que sí?
+Modificacion temporal
+>>>>>>> Stashed changes
